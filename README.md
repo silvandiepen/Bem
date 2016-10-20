@@ -1,1 +1,7 @@
-# jQuery BEM selectors
+# jQuery BEM classes
+
+### bower install
+
+```javascript
+bower install jquery.bemclasses
+```
